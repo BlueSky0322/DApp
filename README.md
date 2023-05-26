@@ -1,6 +1,6 @@
 # Decentralized Applications
 ## Projects
-1. A decentralized Ethereum voting application using Solidity, Truffle and Ganache. [election-app](README.md)
+1. A decentralized Ethereum voting application using Solidity, Truffle and Ganache. [election-app](election-app)
 2. A decentralized Ethereum notes application using Flutter, Solidity, Truffle and Ganache
 
 ## Getting Started
