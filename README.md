@@ -1,4 +1,4 @@
-# Decentralized Applications
+# Decentralized Applications (d-App)
 ## Projects
 1. A decentralized Ethereum [voting application](https://github.com/BlueSky0322/Decentralised-Apps/tree/election-app) using Solidity, Truffle and Ganache. 
 2. A decentralized Ethereum notes application using Flutter, Solidity, Truffle and Ganache
